@@ -34,10 +34,9 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Thank you to my classmate John Raab for providing some direction and snippets of code.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+https://dev.to/code_mystery/random-password-generator-using-javascript-6a
+for loop source
 
 ## License
