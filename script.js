@@ -90,7 +90,7 @@ function generatePassword() {
       choices = letters;
     }
     else if (confirmedUppercase) {
-      choices = blank.concat(lettersU);
+      choices = lettersU;
     };
 
     var password = [];
