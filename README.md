@@ -10,11 +10,7 @@ There are no prerequisites to installing this application! Check the next sectio
 ## Usage
 To access this app click on this link! "Placeholder Link"
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Alt text](/assets/password.png "Password Gen")
 
 ## Credits
 
