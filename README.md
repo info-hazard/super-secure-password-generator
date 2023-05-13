@@ -10,17 +10,17 @@ There are no prerequisites to installing this application! Check the next sectio
 ## Usage
 To access this app click on this link! "Placeholder Link"
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Alt text](/assets/password.png "Password Gen")
 
 ## Credits
 
 Thank you to my classmates John Raab and Preston Vongvilay for providing some direction and snippets of code.
 https://dev.to/code_mystery/random-password-generator-using-javascript-6a
 for loop source and .Math functions
+
+## Notes for Grader
+In the console I am getting an error message though it does not affect the functionality of the applied code.
+     Failed to load resource: the server responded with a status of 404 (/favicon.ico:1)
 
 ## License
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
